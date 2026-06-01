@@ -5,6 +5,7 @@ import plotly.express as px
 from reportlab.platypus import SimpleDocTemplate, Paragraph
 from reportlab.lib.styles import getSampleStyleSheet
 from io import BytesIO
+from ics import Calendar, Event
 
 from planner import generate_plan
 
@@ -51,6 +52,37 @@ def generate_pdf(plan, start_date):
     doc.build(content)
     buffer.seek(0)
     return buffer
+
+#calendar
+def generate_calendar(plan, start_date):
+
+    calendar = Calendar()
+
+    current_date = start_date
+
+    for milestone in plan["milestones"]:
+
+        for week in milestone["weeks"]:
+
+            for task in week["tasks"]:
+
+                event = Event()
+
+                event.name = task
+
+                event.begin = current_date.strftime("%Y-%m-%d")
+
+                event.description = (
+                    f"Goal: {plan['goal']}\n"
+                    f"Milestone: {milestone['title']}\n"
+                    f"Week: {week['week']}"
+                )
+
+                calendar.events.add(event)
+
+            current_date += datetime.timedelta(days=7)
+
+    return str(calendar)
 
 st.set_page_config(page_title="GoalPilot", layout="wide")
 
@@ -357,4 +389,16 @@ if plan:
             data=pdf,
             file_name="GoalPilot_Plan.pdf",
             mime="application/pdf"
+        )
+
+        calendar_file = generate_calendar(
+        plan,
+        start_date
+        )
+
+        st.download_button(
+            label="📅 Export to Calendar (.ics)",
+            data=calendar_file,
+            file_name="GoalPilot_Calendar.ics",
+            mime="text/calendar"
         )
