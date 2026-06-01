@@ -1,15 +1,12 @@
-import os
 import json
 import re
 
-from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 
-load_dotenv()
+import streamlit as st
 
-groq_api_key = os.getenv("GROQ_API_KEY")
-
+groq_api_key = st.secrets["GROQ_API_KEY"]
 
 def generate_plan(goal, duration, difficulty, model_name):
 
