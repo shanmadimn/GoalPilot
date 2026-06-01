@@ -171,6 +171,12 @@ GoalPilot/
 ```
 
 ---
+## 📸 Outputs
+<img width="1908" height="896" alt="Screenshot 2026-06-01 233528" src="https://github.com/user-attachments/assets/07fc6c64-df12-4f82-8352-e1ba9900d13a" />
+<img width="1912" height="884" alt="Screenshot 2026-06-01 233610" src="https://github.com/user-attachments/assets/8aaae83e-4e20-4e72-b5b1-222205994e5f" />
+<img width="1895" height="877" alt="Screenshot 2026-06-01 233629" src="https://github.com/user-attachments/assets/99ecc33f-553b-46f6-97df-84a13f596e7d" />
+
+---
 
 ## ⚙️ Installation
 
