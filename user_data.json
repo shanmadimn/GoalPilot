@@ -1,0 +1,867 @@
+{
+    "learn carnatic music at home": {
+        "display_name": "learn carnatic music at home",
+        "plan": {
+            "goal": "Learn Carnatic Music at Home",
+            "duration_months": 4,
+            "difficulty": "Medium",
+            "milestones": [
+                {
+                    "title": "Familiarize with Carnatic Music Basics",
+                    "weeks": [
+                        {
+                            "week": 1,
+                            "tasks": [
+                                "Watch a 1-hour introductory video on Carnatic music",
+                                "Listen to 30 minutes of Carnatic music to get familiar with the sound",
+                                "Download a Carnatic music learning app on your phone"
+                            ]
+                        },
+                        {
+                            "week": 2,
+                            "tasks": [
+                                "Read about the history and evolution of Carnatic music",
+                                "Learn the names of the 72 melakarta ragas",
+                                "Practice singing a simple Carnatic song with the app"
+                            ]
+                        },
+                        {
+                            "week": 3,
+                            "tasks": [
+                                "Watch a video on Carnatic music notation",
+                                "Learn the basics of Carnatic music notation",
+                                "Practice writing Carnatic music notation for a simple song"
+                            ]
+                        },
+                        {
+                            "week": 4,
+                            "tasks": [
+                                "Listen to a Carnatic music concert recording and analyze the ragas",
+                                "Practice playing a simple Carnatic instrument (e.g., mridangam, veena)",
+                                "Research online Carnatic music communities and forums"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Improve Vocal Skills",
+                    "weeks": [
+                        {
+                            "week": 5,
+                            "tasks": [
+                                "Practice singing a Carnatic song with correct pitch and rhythm",
+                                "Record yourself singing and analyze the recording",
+                                "Practice vocal exercises to improve pitch and tone"
+                            ]
+                        },
+                        {
+                            "week": 6,
+                            "tasks": [
+                                "Learn a new Carnatic song and practice singing it",
+                                "Practice singing with a Carnatic music accompanist (e.g., online)",
+                                "Research vocal techniques used in Carnatic music"
+                            ]
+                        },
+                        {
+                            "week": 7,
+                            "tasks": [
+                                "Practice singing a Carnatic song with ornaments (e.g., gamakas)",
+                                "Learn to sing a Carnatic song with a different raga",
+                                "Practice singing with a Carnatic music ensemble (e.g., online)"
+                            ]
+                        },
+                        {
+                            "week": 8,
+                            "tasks": [
+                                "Record a Carnatic music video of yourself singing",
+                                "Practice singing a Carnatic song with a different tempo",
+                                "Research online Carnatic music competitions and events"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Learn Instrumental Skills",
+                    "weeks": [
+                        {
+                            "week": 9,
+                            "tasks": [
+                                "Practice playing a simple Carnatic instrument (e.g., mridangam, veena)",
+                                "Learn the basics of Carnatic instrumental music",
+                                "Practice playing along with a Carnatic music recording"
+                            ]
+                        },
+                        {
+                            "week": 10,
+                            "tasks": [
+                                "Learn a new Carnatic instrumental piece and practice playing it",
+                                "Practice playing with a Carnatic music accompanist (e.g., online)",
+                                "Research instrumental techniques used in Carnatic music"
+                            ]
+                        },
+                        {
+                            "week": 11,
+                            "tasks": [
+                                "Practice playing a Carnatic instrumental piece with ornaments (e.g., gamakas)",
+                                "Learn to play a Carnatic instrumental piece with a different raga",
+                                "Practice playing with a Carnatic music ensemble (e.g., online)"
+                            ]
+                        },
+                        {
+                            "week": 12,
+                            "tasks": [
+                                "Record a Carnatic music video of yourself playing an instrument",
+                                "Practice playing a Carnatic instrumental piece with a different tempo",
+                                "Research online Carnatic music competitions and events"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Improve Music Theory and Composition",
+                    "weeks": [
+                        {
+                            "week": 13,
+                            "tasks": [
+                                "Learn the basics of Carnatic music theory (e.g., ragas, talas)",
+                                "Practice composing a simple Carnatic song",
+                                "Research online Carnatic music theory resources"
+                            ]
+                        },
+                        {
+                            "week": 14,
+                            "tasks": [
+                                "Learn to analyze a Carnatic song and identify its raga and tala",
+                                "Practice composing a Carnatic instrumental piece",
+                                "Research online Carnatic music composition resources"
+                            ]
+                        },
+                        {
+                            "week": 15,
+                            "tasks": [
+                                "Practice composing a Carnatic song with a different raga",
+                                "Learn to analyze a Carnatic instrumental piece and identify its raga and tala",
+                                "Research online Carnatic music composition competitions and events"
+                            ]
+                        },
+                        {
+                            "week": 16,
+                            "tasks": [
+                                "Record a Carnatic music video of yourself composing a song",
+                                "Practice composing a Carnatic instrumental piece with a different tempo",
+                                "Research online Carnatic music theory and composition communities"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Prepare for Performance",
+                    "weeks": [
+                        {
+                            "week": 17,
+                            "tasks": [
+                                "Practice performing a Carnatic song in front of a mirror",
+                                "Record yourself performing a Carnatic song and analyze the recording",
+                                "Practice performing with a Carnatic music accompanist (e.g., online)"
+                            ]
+                        },
+                        {
+                            "week": 18,
+                            "tasks": [
+                                "Practice performing a Carnatic instrumental piece in front of a mirror",
+                                "Record yourself performing a Carnatic instrumental piece and analyze the recording",
+                                "Research online Carnatic music performance resources"
+                            ]
+                        },
+                        {
+                            "week": 19,
+                            "tasks": [
+                                "Practice performing a Carnatic song with a different raga",
+                                "Learn to perform a Carnatic instrumental piece with ornaments (e.g., gamakas)",
+                                "Practice performing with a Carnatic music ensemble (e.g., online)"
+                            ]
+                        },
+                        {
+                            "week": 20,
+                            "tasks": [
+                                "Record a Carnatic music video of yourself performing a song",
+                                "Practice performing a Carnatic instrumental piece with a different tempo",
+                                "Research online Carnatic music performance competitions and events"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Final Preparation and Performance",
+                    "weeks": [
+                        {
+                            "week": 21,
+                            "tasks": [
+                                "Practice performing a Carnatic song in front of an audience (e.g., family, friends)",
+                                "Record yourself performing a Carnatic song and analyze the recording",
+                                "Practice performing with a Carnatic music accompanist (e.g., online)"
+                            ]
+                        },
+                        {
+                            "week": 22,
+                            "tasks": [
+                                "Practice performing a Carnatic instrumental piece in front of an audience (e.g., family, friends)",
+                                "Record yourself performing a Carnatic instrumental piece and analyze the recording",
+                                "Research online Carnatic music performance resources"
+                            ]
+                        },
+                        {
+                            "week": 23,
+                            "tasks": [
+                                "Practice performing a Carnatic song with a different raga",
+                                "Learn to perform a Carnatic instrumental piece with ornaments (e.g., gamakas)",
+                                "Practice performing with a Carnatic music ensemble (e.g., online)"
+                            ]
+                        },
+                        {
+                            "week": 24,
+                            "tasks": [
+                                "Record a Carnatic music video of yourself performing a song",
+                                "Practice performing a Carnatic instrumental piece with a different tempo",
+                                "Research online Carnatic music performance competitions and events"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "progress": {
+            "learn carnatic music at home_0_1_0": false,
+            "learn carnatic music at home_0_1_1": false,
+            "learn carnatic music at home_0_1_2": false,
+            "learn carnatic music at home_0_2_0": false,
+            "learn carnatic music at home_0_2_1": false,
+            "learn carnatic music at home_0_2_2": false,
+            "learn carnatic music at home_0_3_0": false,
+            "learn carnatic music at home_0_3_1": false,
+            "learn carnatic music at home_0_3_2": false,
+            "learn carnatic music at home_0_4_0": false,
+            "learn carnatic music at home_0_4_1": false,
+            "learn carnatic music at home_0_4_2": false,
+            "learn carnatic music at home_1_5_0": false,
+            "learn carnatic music at home_1_5_1": false,
+            "learn carnatic music at home_1_5_2": false,
+            "learn carnatic music at home_1_6_0": false,
+            "learn carnatic music at home_1_6_1": false,
+            "learn carnatic music at home_1_6_2": false,
+            "learn carnatic music at home_1_7_0": false,
+            "learn carnatic music at home_1_7_1": false,
+            "learn carnatic music at home_1_7_2": false,
+            "learn carnatic music at home_1_8_0": false,
+            "learn carnatic music at home_1_8_1": false,
+            "learn carnatic music at home_1_8_2": false,
+            "learn carnatic music at home_2_9_0": false,
+            "learn carnatic music at home_2_9_1": false,
+            "learn carnatic music at home_2_9_2": false,
+            "learn carnatic music at home_2_10_0": false,
+            "learn carnatic music at home_2_10_1": false,
+            "learn carnatic music at home_2_10_2": false,
+            "learn carnatic music at home_2_11_0": false,
+            "learn carnatic music at home_2_11_1": false,
+            "learn carnatic music at home_2_11_2": false,
+            "learn carnatic music at home_2_12_0": false,
+            "learn carnatic music at home_2_12_1": false,
+            "learn carnatic music at home_2_12_2": false,
+            "learn carnatic music at home_3_13_0": false,
+            "learn carnatic music at home_3_13_1": false,
+            "learn carnatic music at home_3_13_2": false,
+            "learn carnatic music at home_3_14_0": false,
+            "learn carnatic music at home_3_14_1": false,
+            "learn carnatic music at home_3_14_2": false,
+            "learn carnatic music at home_3_15_0": false,
+            "learn carnatic music at home_3_15_1": false,
+            "learn carnatic music at home_3_15_2": false,
+            "learn carnatic music at home_3_16_0": false,
+            "learn carnatic music at home_3_16_1": false,
+            "learn carnatic music at home_3_16_2": false,
+            "learn carnatic music at home_4_17_0": false,
+            "learn carnatic music at home_4_17_1": false,
+            "learn carnatic music at home_4_17_2": false,
+            "learn carnatic music at home_4_18_0": false,
+            "learn carnatic music at home_4_18_1": false,
+            "learn carnatic music at home_4_18_2": false,
+            "learn carnatic music at home_4_19_0": false,
+            "learn carnatic music at home_4_19_1": false,
+            "learn carnatic music at home_4_19_2": false,
+            "learn carnatic music at home_4_20_0": false,
+            "learn carnatic music at home_4_20_1": false,
+            "learn carnatic music at home_4_20_2": false,
+            "learn carnatic music at home_5_21_0": false,
+            "learn carnatic music at home_5_21_1": false,
+            "learn carnatic music at home_5_21_2": false,
+            "learn carnatic music at home_5_22_0": false,
+            "learn carnatic music at home_5_22_1": false,
+            "learn carnatic music at home_5_22_2": false,
+            "learn carnatic music at home_5_23_0": false,
+            "learn carnatic music at home_5_23_1": false,
+            "learn carnatic music at home_5_23_2": false,
+            "learn carnatic music at home_5_24_0": false,
+            "learn carnatic music at home_5_24_1": false,
+            "learn carnatic music at home_5_24_2": false
+        },
+        "pinned": false
+    },
+    "how  to become an ai engineer after b tech graduation": {
+        "display_name": "how  to become an ai engineer after b tech graduation",
+        "plan": {
+            "goal": "Become an AI Engineer after B Tech Graduation",
+            "duration_months": 3,
+            "difficulty": "Medium",
+            "milestones": [
+                {
+                    "title": "Milestone 1: Fundamentals and Basics",
+                    "weeks": [
+                        {
+                            "week": 1,
+                            "tasks": [
+                                "Learn the basics of Python programming language",
+                                "Install necessary libraries and tools (e.g., pip, conda)",
+                                "Set up a code editor or IDE (e.g., Visual Studio Code, PyCharm)"
+                            ]
+                        },
+                        {
+                            "week": 2,
+                            "tasks": [
+                                "Understand the basics of machine learning and deep learning",
+                                "Learn about popular machine learning libraries (e.g., TensorFlow, Keras)",
+                                "Practice basic machine learning algorithms (e.g., linear regression, decision trees)"
+                            ]
+                        },
+                        {
+                            "week": 3,
+                            "tasks": [
+                                "Learn about popular AI frameworks (e.g., PyTorch, OpenCV)",
+                                "Understand the basics of computer vision and natural language processing",
+                                "Practice basic computer vision and NLP tasks (e.g., image classification, text analysis)"
+                            ]
+                        },
+                        {
+                            "week": 4,
+                            "tasks": [
+                                "Learn about data preprocessing and feature engineering",
+                                "Understand the importance of data visualization and storytelling",
+                                "Practice data preprocessing and visualization using popular libraries (e.g., Pandas, Matplotlib)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Milestone 2: Practical Experience and Projects",
+                    "weeks": [
+                        {
+                            "week": 5,
+                            "tasks": [
+                                "Work on a personal project that applies AI and machine learning concepts",
+                                "Contribute to open-source AI and machine learning projects",
+                                "Participate in AI and machine learning competitions (e.g., Kaggle)"
+                            ]
+                        },
+                        {
+                            "week": 6,
+                            "tasks": [
+                                "Develop a chatbot or a simple AI-powered application",
+                                "Create a data visualization dashboard using popular libraries (e.g., Tableau, Power BI)",
+                                "Work on a project that involves computer vision or NLP"
+                            ]
+                        },
+                        {
+                            "week": 7,
+                            "tasks": [
+                                "Develop a machine learning model that solves a real-world problem",
+                                "Create a presentation or a report that showcases AI and machine learning projects",
+                                "Participate in a hackathon or a coding challenge"
+                            ]
+                        },
+                        {
+                            "week": 8,
+                            "tasks": [
+                                "Work on a project that involves reinforcement learning or transfer learning",
+                                "Create a tutorial or a blog post that explains AI and machine learning concepts",
+                                "Participate in a research study or a survey related to AI and machine learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Milestone 3: Advanced Topics and Specialization",
+                    "weeks": [
+                        {
+                            "week": 9,
+                            "tasks": [
+                                "Learn about advanced topics in AI and machine learning (e.g., adversarial training, transfer learning)",
+                                "Understand the basics of neural architecture search and meta-learning",
+                                "Practice advanced machine learning algorithms (e.g., GANs, VAEs)"
+                            ]
+                        },
+                        {
+                            "week": 10,
+                            "tasks": [
+                                "Learn about popular AI and machine learning frameworks (e.g., TensorFlow 2.0, PyTorch 1.9)",
+                                "Understand the basics of distributed computing and parallel processing",
+                                "Practice distributed computing and parallel processing using popular libraries (e.g., Dask, Joblib)"
+                            ]
+                        },
+                        {
+                            "week": 11,
+                            "tasks": [
+                                "Learn about the basics of explainability and interpretability in AI and machine learning",
+                                "Understand the importance of fairness and bias in AI and machine learning",
+                                "Practice explainability and interpretability using popular libraries (e.g., LIME, SHAP)"
+                            ]
+                        },
+                        {
+                            "week": 12,
+                            "tasks": [
+                                "Learn about the basics of transfer learning and few-shot learning",
+                                "Understand the importance of domain adaptation and multi-task learning",
+                                "Practice transfer learning and few-shot learning using popular libraries (e.g., PyTorch, TensorFlow)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Milestone 4: Career Development and Preparation",
+                    "weeks": [
+                        {
+                            "week": 13,
+                            "tasks": [
+                                "Update resume and online profiles (e.g., LinkedIn, GitHub)",
+                                "Practice coding interviews and whiteboarding exercises",
+                                "Prepare for common AI and machine learning interview questions"
+                            ]
+                        },
+                        {
+                            "week": 14,
+                            "tasks": [
+                                "Network with professionals in the AI and machine learning industry",
+                                "Attend conferences and meetups related to AI and machine learning",
+                                "Participate in online communities and forums related to AI and machine learning"
+                            ]
+                        },
+                        {
+                            "week": 15,
+                            "tasks": [
+                                "Develop a personal project or a portfolio that showcases AI and machine learning skills",
+                                "Create a blog or a YouTube channel that showcases AI and machine learning knowledge",
+                                "Prepare for certifications or advanced degrees in AI and machine learning"
+                            ]
+                        },
+                        {
+                            "week": 16,
+                            "tasks": [
+                                "Practice data science and business acumen",
+                                "Learn about the business side of AI and machine learning",
+                                "Prepare for a career in AI and machine learning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Milestone 5: Final Preparation and Launch",
+                    "weeks": [
+                        {
+                            "week": 17,
+                            "tasks": [
+                                "Review and refine AI and machine learning skills",
+                                "Practice coding and problem-solving exercises",
+                                "Prepare for a career in AI and machine learning"
+                            ]
+                        },
+                        {
+                            "week": 18,
+                            "tasks": [
+                                "Update resume and online profiles",
+                                "Practice coding interviews and whiteboarding exercises",
+                                "Prepare for common AI and machine learning interview questions"
+                            ]
+                        },
+                        {
+                            "week": 19,
+                            "tasks": [
+                                "Network with professionals in the AI and machine learning industry",
+                                "Attend conferences and meetups related to AI and machine learning",
+                                "Participate in online communities and forums related to AI and machine learning"
+                            ]
+                        },
+                        {
+                            "week": 20,
+                            "tasks": [
+                                "Launch a career in AI and machine learning",
+                                "Apply for jobs or internships",
+                                "Prepare for a career in AI and machine learning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "progress": {
+            "how  to become an ai engineer after b tech graduation_0_1_0": false,
+            "how  to become an ai engineer after b tech graduation_0_1_1": false,
+            "how  to become an ai engineer after b tech graduation_0_1_2": false,
+            "how  to become an ai engineer after b tech graduation_0_2_0": false,
+            "how  to become an ai engineer after b tech graduation_0_2_1": false,
+            "how  to become an ai engineer after b tech graduation_0_2_2": false,
+            "how  to become an ai engineer after b tech graduation_0_3_0": false,
+            "how  to become an ai engineer after b tech graduation_0_3_1": false,
+            "how  to become an ai engineer after b tech graduation_0_3_2": false,
+            "how  to become an ai engineer after b tech graduation_0_4_0": false,
+            "how  to become an ai engineer after b tech graduation_0_4_1": false,
+            "how  to become an ai engineer after b tech graduation_0_4_2": false,
+            "how  to become an ai engineer after b tech graduation_1_5_0": false,
+            "how  to become an ai engineer after b tech graduation_1_5_1": false,
+            "how  to become an ai engineer after b tech graduation_1_5_2": false,
+            "how  to become an ai engineer after b tech graduation_1_6_0": false,
+            "how  to become an ai engineer after b tech graduation_1_6_1": false,
+            "how  to become an ai engineer after b tech graduation_1_6_2": false,
+            "how  to become an ai engineer after b tech graduation_1_7_0": false,
+            "how  to become an ai engineer after b tech graduation_1_7_1": false,
+            "how  to become an ai engineer after b tech graduation_1_7_2": false,
+            "how  to become an ai engineer after b tech graduation_1_8_0": false,
+            "how  to become an ai engineer after b tech graduation_1_8_1": false,
+            "how  to become an ai engineer after b tech graduation_1_8_2": false,
+            "how  to become an ai engineer after b tech graduation_2_9_0": false,
+            "how  to become an ai engineer after b tech graduation_2_9_1": false,
+            "how  to become an ai engineer after b tech graduation_2_9_2": false,
+            "how  to become an ai engineer after b tech graduation_2_10_0": false,
+            "how  to become an ai engineer after b tech graduation_2_10_1": false,
+            "how  to become an ai engineer after b tech graduation_2_10_2": false,
+            "how  to become an ai engineer after b tech graduation_2_11_0": false,
+            "how  to become an ai engineer after b tech graduation_2_11_1": false,
+            "how  to become an ai engineer after b tech graduation_2_11_2": false,
+            "how  to become an ai engineer after b tech graduation_2_12_0": false,
+            "how  to become an ai engineer after b tech graduation_2_12_1": false,
+            "how  to become an ai engineer after b tech graduation_2_12_2": false,
+            "how  to become an ai engineer after b tech graduation_3_13_0": false,
+            "how  to become an ai engineer after b tech graduation_3_13_1": false,
+            "how  to become an ai engineer after b tech graduation_3_13_2": false,
+            "how  to become an ai engineer after b tech graduation_3_14_0": false,
+            "how  to become an ai engineer after b tech graduation_3_14_1": false,
+            "how  to become an ai engineer after b tech graduation_3_14_2": false,
+            "how  to become an ai engineer after b tech graduation_3_15_0": false,
+            "how  to become an ai engineer after b tech graduation_3_15_1": false,
+            "how  to become an ai engineer after b tech graduation_3_15_2": false,
+            "how  to become an ai engineer after b tech graduation_3_16_0": false,
+            "how  to become an ai engineer after b tech graduation_3_16_1": false,
+            "how  to become an ai engineer after b tech graduation_3_16_2": false,
+            "how  to become an ai engineer after b tech graduation_4_17_0": false,
+            "how  to become an ai engineer after b tech graduation_4_17_1": false,
+            "how  to become an ai engineer after b tech graduation_4_17_2": false,
+            "how  to become an ai engineer after b tech graduation_4_18_0": false,
+            "how  to become an ai engineer after b tech graduation_4_18_1": false,
+            "how  to become an ai engineer after b tech graduation_4_18_2": false,
+            "how  to become an ai engineer after b tech graduation_4_19_0": false,
+            "how  to become an ai engineer after b tech graduation_4_19_1": false,
+            "how  to become an ai engineer after b tech graduation_4_19_2": false,
+            "how  to become an ai engineer after b tech graduation_4_20_0": false,
+            "how  to become an ai engineer after b tech graduation_4_20_1": false,
+            "how  to become an ai engineer after b tech graduation_4_20_2": false
+        },
+        "pinned": false
+    },
+    "how to change role from software engineer to an ai engineer": {
+        "display_name": "how to change role from Software engineer to an AI Engineer",
+        "plan": {
+            "goal": "Transition from Software Engineer to AI Engineer",
+            "duration_months": 3,
+            "difficulty": "Medium",
+            "milestones": [
+                {
+                    "title": "Execution Plan",
+                    "weeks": [
+                        {
+                            "week": 1,
+                            "tasks": [
+                                "Research AI engineering roles and responsibilities",
+                                "Explore AI engineering career paths and growth opportunities",
+                                "Update resume and online profiles to highlight AI-related skills"
+                            ]
+                        },
+                        {
+                            "week": 2,
+                            "tasks": [
+                                "Learn the basics of machine learning and deep learning",
+                                "Familiarize yourself with popular AI frameworks and libraries",
+                                "Understand the difference between AI, machine learning, and deep learning"
+                            ]
+                        },
+                        {
+                            "week": 3,
+                            "tasks": [
+                                "Study the fundamentals of neural networks and their applications",
+                                "Learn about natural language processing (NLP) and computer vision",
+                                "Explore the role of AI in various industries and domains"
+                            ]
+                        },
+                        {
+                            "week": 4,
+                            "tasks": [
+                                "Implement a simple machine learning model using a popular framework",
+                                "Develop a basic neural network using a deep learning library",
+                                "Analyze and visualize data using popular data science tools"
+                            ]
+                        },
+                        {
+                            "week": 5,
+                            "tasks": [
+                                "Choose a specialization area in AI engineering (e.g., NLP, computer vision)",
+                                "Learn about the latest advancements and trends in the chosen area",
+                                "Develop a project idea that applies AI engineering concepts to a real-world problem"
+                            ]
+                        },
+                        {
+                            "week": 6,
+                            "tasks": [
+                                "Design and implement a more complex AI model using a deep learning library",
+                                "Integrate AI with other technologies (e.g., IoT, robotics)",
+                                "Explore the role of ethics and bias in AI engineering"
+                            ]
+                        },
+                        {
+                            "week": 7,
+                            "tasks": [
+                                "Develop a proof-of-concept AI-powered application or prototype",
+                                "Test and evaluate the performance of the AI model",
+                                "Document and share the project experience and learnings"
+                            ]
+                        },
+                        {
+                            "week": 8,
+                            "tasks": [
+                                "Prepare for AI engineering interviews and assessments",
+                                "Practice coding challenges and whiteboarding exercises",
+                                "Develop a personal project or contribution to an open-source AI project"
+                            ]
+                        },
+                        {
+                            "week": 9,
+                            "tasks": [
+                                "Network with professionals in the AI engineering field",
+                                "Attend webinars, conferences, or meetups related to AI engineering",
+                                "Stay up-to-date with the latest AI engineering news and research"
+                            ]
+                        },
+                        {
+                            "week": 10,
+                            "tasks": [
+                                "Finalize the transition plan and create a timeline for the next steps",
+                                "Update the resume and online profiles to reflect the new AI engineering skills",
+                                "Prepare for the next career milestone (e.g., job application, further education)"
+                            ]
+                        },
+                        {
+                            "week": 11,
+                            "tasks": [
+                                "Apply for AI engineering roles or further education programs",
+                                "Continuously learn and improve AI engineering skills",
+                                "Stay adaptable and open to new opportunities and challenges"
+                            ]
+                        },
+                        {
+                            "week": 12,
+                            "tasks": [
+                                "Reflect on the transition journey and identify areas for improvement",
+                                "Share the experience and learnings with others",
+                                "Celebrate the achievement of becoming an AI engineer"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "progress": {
+            "how to change role from software engineer to an ai engineer_0_1_0": true,
+            "how to change role from software engineer to an ai engineer_0_1_1": false,
+            "how to change role from software engineer to an ai engineer_0_1_2": false,
+            "how to change role from software engineer to an ai engineer_0_2_0": false,
+            "how to change role from software engineer to an ai engineer_0_2_1": false,
+            "how to change role from software engineer to an ai engineer_0_2_2": false,
+            "how to change role from software engineer to an ai engineer_0_3_0": false,
+            "how to change role from software engineer to an ai engineer_0_3_1": false,
+            "how to change role from software engineer to an ai engineer_0_3_2": false,
+            "how to change role from software engineer to an ai engineer_0_4_0": false,
+            "how to change role from software engineer to an ai engineer_0_4_1": false,
+            "how to change role from software engineer to an ai engineer_0_4_2": false,
+            "how to change role from software engineer to an ai engineer_0_5_0": false,
+            "how to change role from software engineer to an ai engineer_0_5_1": false,
+            "how to change role from software engineer to an ai engineer_0_5_2": false,
+            "how to change role from software engineer to an ai engineer_0_6_0": false,
+            "how to change role from software engineer to an ai engineer_0_6_1": false,
+            "how to change role from software engineer to an ai engineer_0_6_2": false,
+            "how to change role from software engineer to an ai engineer_0_7_0": false,
+            "how to change role from software engineer to an ai engineer_0_7_1": false,
+            "how to change role from software engineer to an ai engineer_0_7_2": false,
+            "how to change role from software engineer to an ai engineer_0_8_0": false,
+            "how to change role from software engineer to an ai engineer_0_8_1": false,
+            "how to change role from software engineer to an ai engineer_0_8_2": false,
+            "how to change role from software engineer to an ai engineer_0_9_0": false,
+            "how to change role from software engineer to an ai engineer_0_9_1": false,
+            "how to change role from software engineer to an ai engineer_0_9_2": false,
+            "how to change role from software engineer to an ai engineer_0_10_0": false,
+            "how to change role from software engineer to an ai engineer_0_10_1": false,
+            "how to change role from software engineer to an ai engineer_0_10_2": false,
+            "how to change role from software engineer to an ai engineer_0_11_0": false,
+            "how to change role from software engineer to an ai engineer_0_11_1": false,
+            "how to change role from software engineer to an ai engineer_0_11_2": false,
+            "how to change role from software engineer to an ai engineer_0_12_0": false,
+            "how to change role from software engineer to an ai engineer_0_12_1": false,
+            "how to change role from software engineer to an ai engineer_0_12_2": false
+        },
+        "pinned": false
+    },
+    "how to learn telugu language to read and write": {
+        "display_name": "how to learn telugu language to read and write",
+        "plan": {
+            "goal": "Learn Telugu language to read and write",
+            "duration_months": 3,
+            "difficulty": "Medium",
+            "milestones": [
+                {
+                    "title": "Execution Plan",
+                    "weeks": [
+                        {
+                            "week": 1,
+                            "tasks": [
+                                "Learn Telugu Alphabet (\u0c05\u0c1a\u0c4d\u0c1a\u0c41\u0c32\u0c41, \u0c38\u0c02\u0c35\u0c43\u0c24 \u0c05\u0c1a\u0c4d\u0c1a\u0c41\u0c32\u0c41, \u0c2f\u0c2f\u0c3e\u0c24\u0c4d\u0c2a\u0c41\u0c30\u0c41\u0c37\u0c3e\u0c32\u0c41)",
+                                "Download and install a Telugu keyboard layout",
+                                "Practice typing Telugu characters"
+                            ]
+                        },
+                        {
+                            "week": 2,
+                            "tasks": [
+                                "Learn basic Telugu phrases (\u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02, \u0c07\u0c26\u0c4d\u0c26\u0c30\u0c3f\u0c15\u0c40 \u0c28\u0c2e\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c02)",
+                                "Watch Telugu language videos on YouTube",
+                                "Listen to Telugu podcasts"
+                            ]
+                        },
+                        {
+                            "week": 3,
+                            "tasks": [
+                                "Practice reading Telugu texts (\u0c2a\u0c26\u0c4d\u0c2f\u0c3e\u0c32\u0c41, \u0c35\u0c4d\u0c2f\u0c3e\u0c38\u0c3e\u0c32\u0c41)",
+                                "Learn basic Telugu grammar rules",
+                                "Use flashcards to memorize Telugu vocabulary"
+                            ]
+                        },
+                        {
+                            "week": 4,
+                            "tasks": [
+                                "Read a Telugu book (\u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02)",
+                                "Practice writing Telugu characters",
+                                "Use online resources to practice Telugu writing"
+                            ]
+                        },
+                        {
+                            "week": 5,
+                            "tasks": [
+                                "Read Telugu news articles (\u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41)",
+                                "Practice writing short Telugu paragraphs",
+                                "Use online resources to practice Telugu reading comprehension"
+                            ]
+                        },
+                        {
+                            "week": 6,
+                            "tasks": [
+                                "Watch Telugu movies with English subtitles",
+                                "Listen to Telugu audiobooks",
+                                "Practice speaking Telugu with a language exchange partner"
+                            ]
+                        },
+                        {
+                            "week": 7,
+                            "tasks": [
+                                "Read a Telugu novel (\u0c28\u0c35\u0c32)",
+                                "Practice writing Telugu essays",
+                                "Use online resources to practice Telugu vocabulary building"
+                            ]
+                        },
+                        {
+                            "week": 8,
+                            "tasks": [
+                                "Read Telugu poetry (\u0c2a\u0c26\u0c4d\u0c2f\u0c3e\u0c32\u0c41)",
+                                "Practice writing Telugu short stories",
+                                "Use online resources to practice Telugu writing skills"
+                            ]
+                        },
+                        {
+                            "week": 9,
+                            "tasks": [
+                                "Read Telugu books on various topics (\u0c35\u0c3f\u0c35\u0c3f\u0c27 \u0c35\u0c3f\u0c37\u0c2f\u0c3e\u0c32\u0c41)",
+                                "Practice writing Telugu articles",
+                                "Use online resources to practice Telugu reading and writing skills"
+                            ]
+                        },
+                        {
+                            "week": 10,
+                            "tasks": [
+                                "Watch Telugu TV shows with English subtitles",
+                                "Listen to Telugu podcasts on various topics",
+                                "Practice speaking Telugu with a language exchange partner"
+                            ]
+                        },
+                        {
+                            "week": 11,
+                            "tasks": [
+                                "Read Telugu books on advanced topics (\u0c05\u0c27\u0c3f\u0c15 \u0c35\u0c3f\u0c37\u0c2f\u0c3e\u0c32\u0c41)",
+                                "Practice writing Telugu essays on advanced topics",
+                                "Use online resources to practice Telugu writing skills"
+                            ]
+                        },
+                        {
+                            "week": 12,
+                            "tasks": [
+                                "Read Telugu news articles on advanced topics",
+                                "Practice writing Telugu articles on advanced topics",
+                                "Use online resources to practice Telugu reading and writing skills"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "progress": {
+            "how to learn telugu language to read and write_0_1_0": false,
+            "how to learn telugu language to read and write_0_1_1": false,
+            "how to learn telugu language to read and write_0_1_2": false,
+            "how to learn telugu language to read and write_0_2_0": false,
+            "how to learn telugu language to read and write_0_2_1": false,
+            "how to learn telugu language to read and write_0_2_2": false,
+            "how to learn telugu language to read and write_0_3_0": false,
+            "how to learn telugu language to read and write_0_3_1": false,
+            "how to learn telugu language to read and write_0_3_2": false,
+            "how to learn telugu language to read and write_0_4_0": false,
+            "how to learn telugu language to read and write_0_4_1": false,
+            "how to learn telugu language to read and write_0_4_2": false,
+            "how to learn telugu language to read and write_0_5_0": false,
+            "how to learn telugu language to read and write_0_5_1": false,
+            "how to learn telugu language to read and write_0_5_2": false,
+            "how to learn telugu language to read and write_0_6_0": false,
+            "how to learn telugu language to read and write_0_6_1": false,
+            "how to learn telugu language to read and write_0_6_2": false,
+            "how to learn telugu language to read and write_0_7_0": false,
+            "how to learn telugu language to read and write_0_7_1": false,
+            "how to learn telugu language to read and write_0_7_2": false,
+            "how to learn telugu language to read and write_0_8_0": false,
+            "how to learn telugu language to read and write_0_8_1": false,
+            "how to learn telugu language to read and write_0_8_2": false,
+            "how to learn telugu language to read and write_0_9_0": false,
+            "how to learn telugu language to read and write_0_9_1": false,
+            "how to learn telugu language to read and write_0_9_2": false,
+            "how to learn telugu language to read and write_0_10_0": false,
+            "how to learn telugu language to read and write_0_10_1": false,
+            "how to learn telugu language to read and write_0_10_2": false,
+            "how to learn telugu language to read and write_0_11_0": false,
+            "how to learn telugu language to read and write_0_11_1": false,
+            "how to learn telugu language to read and write_0_11_2": false,
+            "how to learn telugu language to read and write_0_12_0": false,
+            "how to learn telugu language to read and write_0_12_1": false,
+            "how to learn telugu language to read and write_0_12_2": false
+        },
+        "pinned": false
+    }
+}
