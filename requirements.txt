@@ -2,4 +2,7 @@ streamlit
 langchain
 langchain-groq
 python-dotenv
+pandas
+plotly
+reportlab
 ics
